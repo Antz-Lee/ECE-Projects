@@ -1,4 +1,4 @@
-# Adventure Game Project 
+# Adventure Game Group Project 
 
 This repository contains a C# code implentation of the early 1980's text based video game, "Adventure Game". 
 The single player game is driven by exploration and puzzle solving in an interactive story mode adventure. 
